@@ -1,6 +1,6 @@
 import Es1.Ex1;
 import Es2.Ex2;
-
+import Es4.Ex4;
 
 public class Main {
     public static void main(String[] args) {
@@ -11,6 +11,8 @@ public class Main {
 
         System.out.println(Ex2.stampaNumero(2));
         System.out.println(Ex2.stampaNumero(4));
+
+        
     }
 
 }
