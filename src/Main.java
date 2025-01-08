@@ -12,7 +12,7 @@ public class Main {
         System.out.println(Ex2.stampaNumero(2));
         System.out.println(Ex2.stampaNumero(4));
 
-        
+
     }
 
 }

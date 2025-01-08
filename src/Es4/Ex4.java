@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Ex4 {
 
-    public static void Esercizio4 (String[] args) {
+    public static void main (String[] args) {
         Scanner scan = new Scanner(System.in);
         System.out.println("Scrivi un numero e premi invio");
         int test = scan.nextInt();
